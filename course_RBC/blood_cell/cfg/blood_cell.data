@@ -1,0 +1,6 @@
+classes= 1
+train  = ../blood_cell/cfg/train.txt
+valid = ../blood_cell/cfg/valid.txt
+names = ../blood_cell/cfg/blood_cell.names
+backup = ../blood_cell/cfg/weights/
+
